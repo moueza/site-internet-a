@@ -9,6 +9,8 @@ import { BronzesAmisPourLaVieRadinJugnotFilmComponent } from './bronzes-amis-pou
 import { NOCOUNTRYFOROLDMENPistonFilmComponent } from './no-country-for-old-men-piston-film/no-country-for-old-men-piston-film.component';
 import { MetaKeywordsComponent } from './meta-keywords/meta-keywords.component';
 import { LaPetiteGeanteChuRoyalDeLuxeNantesGeantsPeintureComponent } from './la-petite-geante-chu-royal-de-luxe-nantes-geants-peinture/la-petite-geante-chu-royal-de-luxe-nantes-geants-peinture.component';
+import { ImagesComponent } from './images/images.component';
+import { DtcLogoComponent } from './dtc-logo/dtc-logo.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,11 @@ import { LaPetiteGeanteChuRoyalDeLuxeNantesGeantsPeintureComponent } from './la-
     NOCOUNTRYFOROLDMENPistonFilmComponent,
     MetaKeywordsComponent,
   
-    LaPetiteGeanteChuRoyalDeLuxeNantesGeantsPeintureComponent
+    LaPetiteGeanteChuRoyalDeLuxeNantesGeantsPeintureComponent,
+  
+    ImagesComponent,
+  
+    DtcLogoComponent
   ],
   imports: [
     BrowserModule,
