@@ -11,6 +11,7 @@ import { MetaKeywordsComponent } from './meta-keywords/meta-keywords.component';
 import { LaPetiteGeanteChuRoyalDeLuxeNantesGeantsPeintureComponent } from './la-petite-geante-chu-royal-de-luxe-nantes-geants-peinture/la-petite-geante-chu-royal-de-luxe-nantes-geants-peinture.component';
 import { ImagesComponent } from './images/images.component';
 import { DtcLogoComponent } from './dtc-logo/dtc-logo.component';
+import { EriolMC5NantesProgrammeImmobilierComponent } from './eriol-mc5-nantes-programme-immobilier/eriol-mc5-nantes-programme-immobilier.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,9 @@ import { DtcLogoComponent } from './dtc-logo/dtc-logo.component';
   
     ImagesComponent,
   
-    DtcLogoComponent
+    DtcLogoComponent,
+  
+    EriolMC5NantesProgrammeImmobilierComponent
   ],
   imports: [
     BrowserModule,
