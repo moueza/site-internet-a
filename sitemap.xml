@@ -8,7 +8,7 @@
 
   
     <url>
-        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/</loc>
+        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/myapp/homniserv#/</loc>
         <lastmod>2019-03-18</lastmod>
         <changefreq>daily</changefreq>
 
@@ -18,7 +18,7 @@
   
   
   <url>
-        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/#/will</loc>
+        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/myapp/#/will</loc>
         <lastmod>2019-03-18</lastmod>
         <changefreq>daily</changefreq>
 
@@ -26,8 +26,8 @@
     </url>
   
    <url>
-        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/#/images</loc>
-        <lastmod>2019-05-06</lastmod>
+        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/myapp/#/images</loc>
+        <lastmod>2019-05-15</lastmod>
         <changefreq>daily</changefreq>
 
         <priority>0.98</priority>
@@ -36,11 +36,22 @@
   
   
    <url>
-        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/#/dtc_logo</loc>
-        <lastmod>2019-05-06</lastmod>
+        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/myapp/#/dtc_logo</loc>
+        <lastmod>2019-05-15</lastmod>
         <changefreq>daily</changefreq>
 
         <priority>0.96</priority>
     </url>
+	
+	
+	   <url>
+        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/myapp/#/eriol_mc5_nantes_programme_immobilier</loc>
+        <lastmod>2019-05-15</lastmod>
+        <changefreq>daily</changefreq>
+
+        <priority>0.80</priority>
+    </url>
+	
+	
 </urlset>
 
