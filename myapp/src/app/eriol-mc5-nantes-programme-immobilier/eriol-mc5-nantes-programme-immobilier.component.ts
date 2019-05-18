@@ -11,7 +11,9 @@ export class EriolMC5NantesProgrammeImmobilierComponent implements OnInit {
      this.meta.addTag({ name: 'description', content: 'Nantes Malakoff Renouveau' });
     this.meta.addTag({ name: 'author', content: 'Peter MOUEZA' });
     this.meta.addTag({ name: 'keywords', content: 'peter, moueza, Nantes,Malakoff, immobilier,Eriol,MC5,programme,immeuble,architecture' });
-	}
+	
+	  this.meta.addTag({ name: 'keywords', content:'peter, moueza, Nantes,Malakoff, immobilier,Eriol,MC5,programme,immeuble,architecture' },true);
+	  }
 
   ngOnInit() {
   }
