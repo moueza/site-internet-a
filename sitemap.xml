@@ -53,5 +53,13 @@
     </url>
 	
 	
+    
+	   <url>
+        <loc>https://moueza.github.io/site-internet-moueza-peter-a/myapp/dist/myapp/index2.html</loc>
+        <lastmod>2019-05-28</lastmod>
+        <changefreq>daily</changefreq>
+
+        <priority>0.85</priority>
+    </url>
 </urlset>
 
