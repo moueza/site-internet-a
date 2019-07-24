@@ -14,6 +14,7 @@ import { DtcLogoComponent } from './dtc-logo/dtc-logo.component';
 import { EriolMC5NantesProgrammeImmobilierComponent } from './eriol-mc5-nantes-programme-immobilier/eriol-mc5-nantes-programme-immobilier.component';
 import { TablesDePingPongComponent } from './tables-de-ping-pong/tables-de-ping-pong.component';
 import { SamsungS10Component } from './samsung-s10/samsung-s10.component';
+import { MarathonsComponent } from './marathons/marathons.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +35,9 @@ import { SamsungS10Component } from './samsung-s10/samsung-s10.component';
   
     TablesDePingPongComponent,
   
-    SamsungS10Component
+    SamsungS10Component,
+  
+    MarathonsComponent
   ],
   imports: [
     BrowserModule,
