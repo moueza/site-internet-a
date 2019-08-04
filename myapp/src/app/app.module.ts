@@ -15,6 +15,8 @@ import { EriolMC5NantesProgrammeImmobilierComponent } from './eriol-mc5-nantes-p
 import { TablesDePingPongComponent } from './tables-de-ping-pong/tables-de-ping-pong.component';
 import { SamsungS10Component } from './samsung-s10/samsung-s10.component';
 import { MarathonsComponent } from './marathons/marathons.component';
+import { UniversitePdfComponent } from './universite-pdf/universite-pdf.component';
+import { MenuComponent } from './menu/menu.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +39,11 @@ import { MarathonsComponent } from './marathons/marathons.component';
   
     SamsungS10Component,
   
-    MarathonsComponent
+    MarathonsComponent,
+  
+    UniversitePdfComponent,
+  
+    MenuComponent
   ],
   imports: [
     BrowserModule,
